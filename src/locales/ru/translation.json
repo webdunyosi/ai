@@ -1,0 +1,8 @@
+{
+  "routes": {
+    "main": "Главная",
+    "ai_pro": "LegAI Pro",
+    "book_lawyer": "Заказ юриста",
+    "support": "Помощь"
+  }
+}

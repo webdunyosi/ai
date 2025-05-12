@@ -1,0 +1,8 @@
+{
+  "routes": {
+    "main": "Home",
+    "ai_pro": "LegAI Pro",
+    "book_lawyer": "Book a Lawyer",
+    "support": "Support"
+  }
+}

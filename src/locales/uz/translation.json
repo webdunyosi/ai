@@ -1,0 +1,8 @@
+{
+  "routes": {
+    "main": "Asosiy",
+    "ai_pro": "LegAI Pro",
+    "book_lawyer": "Yurist buyurtma qilish",
+    "support": "Yordam"
+  }
+}
